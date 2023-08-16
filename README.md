@@ -1,6 +1,6 @@
 # j-psantos.github.io
 ## Curso de Android
-### Olá, seja bem-vind0!
+### Olá, seja bem-vindo!
 **Meu nome é José Paulo.**
 **Sou estudade do Curso de desenvolvedor de aplicativo
 Android. Tenho conhecimento de linguagem de programação
